@@ -1,6 +1,6 @@
 title: GameDevFoundry
 description: Resources for game developers.
-theme: just-the-docs
+remote-theme: just-the-docs/just-the-docs
 
 # Sidebar Navigation
 nav_order: 1
