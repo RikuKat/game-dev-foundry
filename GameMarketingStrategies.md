@@ -30,7 +30,7 @@ Traditional advertising remains a fundamental component of game marketing, provi
 Influencers and content creators are powerful tools in modern game marketing, providing authentic promotion and direct engagement with potential players.
 
 ### 1. Finding the Right Influencers
-- **Targeted Audience Matching:** Choose influencers whose audience aligns with the game’s genre and style.
+- **Targeted Audience Matching:** Choose influencers whose audience aligns with the game's genre and style.
 - **Engagement Over Follower Count:** A smaller creator with high engagement can drive more conversions than a large influencer with passive followers.
 - **Cross-Platform Reach:** Leverage different platforms (Twitch, YouTube, TikTok, Twitter) for maximum exposure.
 
@@ -69,18 +69,18 @@ Building a community around a game ensures long-term success, player retention, 
 Game distribution platforms like **Steam, Epic Games Store, PlayStation Store, Xbox Marketplace, and Nintendo eShop** operate on algorithms designed to surface content that is relevant, engaging, and likely to convert into sales. Understanding and leveraging these algorithms can significantly impact a game's visibility and success.
 
 ### Key Factors Influencing Platform Algorithms
-- **Interest/Wishlist Activity** – Platforms often prioritize games with high wishlist counts and recent additions.
-- **Conversion Rates** – A game that converts store visitors into buyers at a high rate is more likely to be recommended.
-- **Reviews & Ratings** – A higher volume of positive reviews boosts ranking and discoverability.
-- **Engagement Metrics** – Active discussions, frequent updates, and community interaction can push a game higher in store algorithms.
-- **Sales Performance** – Games with a strong launch or consistent sales are more likely to be featured in promotions and curated lists.
+- **Interest/Wishlist Activity** - Platforms often prioritize games with high wishlist counts and recent additions.
+- **Conversion Rates** - A game that converts store visitors into buyers at a high rate is more likely to be recommended.
+- **Reviews & Ratings** - A higher volume of positive reviews boosts ranking and discoverability.
+- **Engagement Metrics** - Active discussions, frequent updates, and community interaction can push a game higher in store algorithms.
+- **Sales Performance** - Games with a strong launch or consistent sales are more likely to be featured in promotions and curated lists.
 
 ### Strategies to Optimize for Algorithms
-- **Encourage Wishlisting** – Make wishlist calls-to-action a key part of your marketing campaign.
-- **Secure Reviews Early** – Ask early adopters to leave reviews and consider reaching out to press and influencers.
-- **Frequent Updates** – Regular patches, events, and dev logs show ongoing development and keep engagement high.
-- **Leverage Community Activity** – Drive discussions in Steam forums, Discord, and social media to signal interest.
-- **Optimize Store Page** – Strong visuals, a compelling description, and clear tagging improve relevance in search and recommendation engines.
+- **Encourage Wishlisting** - Make wishlist calls-to-action a key part of your marketing campaign.
+- **Secure Reviews Early** - Ask early adopters to leave reviews and consider reaching out to press and influencers.
+- **Frequent Updates** - Regular patches, events, and dev logs show ongoing development and keep engagement high.
+- **Leverage Community Activity** - Drive discussions in Steam forums, Discord, and social media to signal interest.
+- **Optimize Store Page** - Strong visuals, a compelling description, and clear tagging improve relevance in search and recommendation engines.
 
 ## Leveraging Platform Events
 
@@ -88,35 +88,35 @@ Most major platforms host recurring **sales, seasonal events, and curated promot
 
 ### Major Platform Events
 #### Steam:
-- **Steam Next Fest** – Showcases upcoming games with playable demos, boosting exposure.
-- **Seasonal Sales** (Summer, Winter, Autumn, and Spring Sales) – The largest traffic spikes, ideal for maximizing revenue.
-- **Daily & Weekly Deals** – Limited-time discounts that boost visibility.
-- **Publisher Events & Themed Sales** – Feature games based on genres, franchises, or gameplay elements.
+- **Steam Next Fest** - Showcases upcoming games with playable demos, boosting exposure.
+- **Seasonal Sales** (Summer, Winter, Autumn, and Spring Sales) - The largest traffic spikes, ideal for maximizing revenue.
+- **Daily & Weekly Deals** - Limited-time discounts that boost visibility.
+- **Publisher Events & Themed Sales** - Feature games based on genres, franchises, or gameplay elements.
 
 #### Console Stores (PlayStation, Xbox, Nintendo):
-- **Spotlight Features & Curated Sales** – Editorial selections highlight certain games or genres.
-- **Game Pass & PS Plus Promotions** – Subscription-based exposure can drive engagement and future sales.
-- **Pre-Order & Launch Discounts** – Encourages early adoption and ranking boosts.
+- **Spotlight Features & Curated Sales** - Editorial selections highlight certain games or genres.
+- **Game Pass & PS Plus Promotions** - Subscription-based exposure can drive engagement and future sales.
+- **Pre-Order & Launch Discounts** - Encourages early adoption and ranking boosts.
 
 ### How to Take Advantage of Events
-- **Plan Discounts in Advance** – Align price drops with major traffic surges.
-- **Engage with the Community During Events** – Announce sales and new updates to drive interest.
-- **Offer Exclusive Content** – Bundles, cosmetics, or extra in-game items can entice purchases during promotions.
-- **Prepare Marketing Assets** – Ensure trailers, screenshots, and descriptions are optimized before the event begins.
+- **Plan Discounts in Advance** - Align price drops with major traffic surges.
+- **Engage with the Community During Events** - Announce sales and new updates to drive interest.
+- **Offer Exclusive Content** - Bundles, cosmetics, or extra in-game items can entice purchases during promotions.
+- **Prepare Marketing Assets** - Ensure trailers, screenshots, and descriptions are optimized before the event begins.
 
 ## Strategic Discounting for Longevity
 
 Offering discounts is a critical strategy for maintaining long-term sales momentum. However, **poorly planned discounts can devalue a game** and hurt future pricing strategies.
 
 ### Types of Discount Strategies
-- **Launch Discounts** – Encourages immediate adoption and higher ranking.
-- **Seasonal Sales Discounts** – Aligns with platform-wide promotions to take advantage of increased traffic.
-- **Tiered Discounts** – Gradual price reductions over time can extend a game’s revenue lifespan.
-- **Flash Sales & Bundles** – Temporary deep discounts or grouped game offerings can increase volume sales.
+- **Launch Discounts** - Encourages immediate adoption and higher ranking.
+- **Seasonal Sales Discounts** - Aligns with platform-wide promotions to take advantage of increased traffic.
+- **Tiered Discounts** - Gradual price reductions over time can extend a game's revenue lifespan.
+- **Flash Sales & Bundles** - Temporary deep discounts or grouped game offerings can increase volume sales.
 
 ### Best Practices for Discounting
-- **Avoid Deep Discounts Too Early** – Players may wait for a bigger sale if they expect a rapid price drop.
-- **Experiment with Discount Percentages** – Analyze past performance and adjust future pricing accordingly.
-- **Leverage Regional Pricing** – Adjust prices to match market demand and purchasing power in different regions.
-- **Announce Discounts Strategically** – Promote sales through newsletters, social media, and community posts.
+- **Avoid Deep Discounts Too Early** - Players may wait for a bigger sale if they expect a rapid price drop.
+- **Experiment with Discount Percentages** - Analyze past performance and adjust future pricing accordingly.
+- **Leverage Regional Pricing** - Adjust prices to match market demand and purchasing power in different regions.
+- **Announce Discounts Strategically** - Promote sales through newsletters, social media, and community posts.
 

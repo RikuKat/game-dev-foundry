@@ -5,7 +5,7 @@ A pitch deck is not just a structured presentation of your game; it is the start
 
 ## Key Principles of a Strong Pitch
 - Highlight what makes your game unique and compelling.
-- Showcase your team’s strengths and past successes.
+- Showcase your team's strengths and past successes.
 - Clearly define your market potential and audience.
 - Demonstrate why your game fits well within the industry landscape.
 - Address concerns about your team's ability to ship the game.
@@ -78,7 +78,7 @@ A well-structured pitch deck should include the following sections:
 ## Final Tips 
 
 ### 1. Avoid Common Pitfalls
-- **Lack of Vision:** Be specific about your game’s features, monetization, and development plan.
+- **Lack of Vision:** Be specific about your game's features, monetization, and development plan.
 - **No Clear Reasoning:** Always connect information to why it matters.
 - **Unrealistic Budgets:** Asking for too little or too much makes your project seem unsustainable.
 - **No Confidence/Competency:** A big part of your pitch is proving your team can make the product successfully with the resources requested.
@@ -89,12 +89,12 @@ A well-structured pitch deck should include the following sections:
 
 ### 3. Make it Visually Engaging
 - **Minimal Text, More Visuals:** Keep slides concise and rely on images, charts, and gameplay footage.
-- **Consistent Design:** Use a clean, readable layout that aligns with your game’s aesthetic.
+- **Consistent Design:** Use a clean, readable layout that aligns with your game's aesthetic.
 
 ### 4. Be Prepared for Questions
 - **Know Your Numbers:** Be ready to explain your budget breakdown and development timeline.
-- **Address Concerns Proactively:** If there’s a potential risk, show how you’ve planned to mitigate it.
+- **Address Concerns Proactively:** If there's a potential risk, show how you've planned to mitigate it.
 
 ### 5. Follow Up After the Pitch
 - **Send Additional Materials** (Gameplay videos, design documents, business plans).
-- **Stay in Touch** (Maintain communication even if they don’t sign immediately).
+- **Stay in Touch** (Maintain communication even if they don't sign immediately).

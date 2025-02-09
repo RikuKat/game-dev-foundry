@@ -13,12 +13,12 @@ A positive and healthy studio culture uplifts team members, enabling them to:
 
 
 ### Benefits of a Positive Work Culture
-- **Higher retention and morale** – Reducing the cost of onboarding and offboarding employees.
-- **Faster development of talent** – Junior employees develop into mid-level, senior, and lead roles, uplifting others as they grow.
-- **More effective employees** – Employees become increasingly valuable as they integrate into the team.
-- **Better communication** – Game development is iterative, requiring open and honest communication to improve collaboration.
-- **Insights into potential issues** – A transparent culture allows issues to be identified and addressed early.
-- **Broader audience capabilities** – A diverse and inclusive team can appeal to a wider audience and create more accessible games.
+- **Higher retention and morale** - Reducing the cost of onboarding and offboarding employees.
+- **Faster development of talent** - Junior employees develop into mid-level, senior, and lead roles, uplifting others as they grow.
+- **More effective employees** - Employees become increasingly valuable as they integrate into the team.
+- **Better communication** - Game development is iterative, requiring open and honest communication to improve collaboration.
+- **Insights into potential issues** - A transparent culture allows issues to be identified and addressed early.
+- **Broader audience capabilities** - A diverse and inclusive team can appeal to a wider audience and create more accessible games.
 
 
 ## General Approach
@@ -32,17 +32,17 @@ To foster a thriving studio culture, focus on:
 ## Define Your Culture
 
 ### Be Explicit
-Culture must be **deliberately defined and actively upheld**. A strong culture is not just a set of words on a website—it should be part of every decision made in the studio. Leadership should define, refer to, and uphold:
-- **Mission** – Why does the studio exist?
-- **Values** – What principles guide the studio?
-- **Goals** – What are the studio's short- and long-term objectives?
-- **Expectations and policies** – What behavior and performance standards are required of employees?
+Culture must be **deliberately defined and actively upheld**. A strong culture is not just a set of words on a website -- it should be part of every decision made in the studio. Leadership should define, refer to, and uphold:
+- **Mission** - Why does the studio exist?
+- **Values** - What principles guide the studio?
+- **Goals** - What are the studio's short- and long-term objectives?
+- **Expectations and policies** - What behavior and performance standards are required of employees?
 
 
 To be effective, these principles must be:
-- **Clear and concise** – Easy to understand and remember.
-- **Consistently applied** – Embedded in hiring, performance reviews, and decision-making.
-- **Integrated into studio rituals** – Discussed in meetings, referenced in feedback, and reflected in daily work.
+- **Clear and concise** - Easy to understand and remember.
+- **Consistently applied** - Embedded in hiring, performance reviews, and decision-making.
+- **Integrated into studio rituals** - Discussed in meetings, referenced in feedback, and reflected in daily work.
 
 ### Mission
 The mission serves as the **North Star** for a studio, defining its core purpose and guiding decision-making. A strong mission statement:
@@ -55,14 +55,14 @@ For example:
 - A studio might focus on creating cooperative multiplayer experiences that inspire teamwork in new ways.
 - Another might emphasize empathetic storytelling to share underrepresented narratives in games.
 
-When making business or design decisions, leadership should be able to point to the mission statement and ask, **“Are we staying true to this goal?”**
+When making business or design decisions, leadership should be able to point to the mission statement and ask, **"Are we staying true to this goal?"**
 
 ### Core Values
-Core values define **how you work** (e.g. **how the studio operates and interacts**). They serve as guiding beliefs, philosophies, and principles, shaping the studio’s culture and decision-making.
+Core values define **how you work** (e.g. **how the studio operates and interacts**). They serve as guiding beliefs, philosophies, and principles, shaping the studio's culture and decision-making.
 
 Effective values should:
 - Be **clearly defined and easy to remember**.
-- Have a **single, shared interpretation**—avoid vague phrases like “aim for greatness.”
+- Have a **single, shared interpretation** -- avoid vague phrases like "aim for greatness."
 - Provide **practical guidance** on how employees work and interact.
 - Create **one shared understanding** across all employees.
 
@@ -78,12 +78,12 @@ These values are **concise, actionable, and meaningful** within that studio's' c
 
 #### Healthy Culture Themes
 When defining core values, consider emphasizing:
-- **Employee wellness** – Supporting mental, physical, and emotional well-being.
-- **Personal development and growth** – Encouraging continuous learning and skill development.
-- **Honesty and openness** – Fostering a transparent and communicative workplace.
-- **Praise and acknowledgment** – Ensuring that contributions are recognized and appreciated.
-- **Constructive approaches** – Encouraging feedback and problem-solving over blame.
-- **Protection and support of employees** – Creating policies that safeguard employees from harassment, social media attacks, and workplace hostility.
+- **Employee wellness** - Supporting mental, physical, and emotional well-being.
+- **Personal development and growth** - Encouraging continuous learning and skill development.
+- **Honesty and openness** - Fostering a transparent and communicative workplace.
+- **Praise and acknowledgment** - Ensuring that contributions are recognized and appreciated.
+- **Constructive approaches** - Encouraging feedback and problem-solving over blame.
+- **Protection and support of employees** - Creating policies that safeguard employees from harassment, social media attacks, and workplace hostility.
 
 
 
@@ -97,7 +97,7 @@ Hiring someone without a clear purpose can be demoralizing for both the new hire
 Before bringing on a new team member, consider:
 - **Defined Role:** Do you have a clear understanding of what this person will contribute?
 - **Onboarding Plan:** Do you have a structured way to integrate them into the team?
-- **Vision Alignment:** Does this role fit into the studio’s mission and long-term strategy?
+- **Vision Alignment:** Does this role fit into the studio's mission and long-term strategy?
 - **Growth Pathway:** How will you support their career growth and development?
 
 #### Questions to Ask
@@ -121,15 +121,15 @@ Diversity encompasses multiple dimensions, including:
 #### The Measurable Impact of Diversity
 A **Deloitte study** found that when employees feel supported in a diverse and inclusive workplace, their ability to **innovate increases by 83%**. Employees who feel valued and included are more willing to take creative risks and introduce unique ideas.
 
-Diversity is not about assimilation into a single culture but about creating a **mosaic**—where different backgrounds and experiences come together to form something greater than the sum of its parts.
+Diversity is not about assimilation into a single culture but about creating a **mosaic** -- where different backgrounds and experiences come together to form something greater than the sum of its parts.
 
-### Recruitment – Sending the Right Signals
+### Recruitment - Sending the Right Signals
 
 The recruitment process should **attract a diverse range of candidates** and avoid unintentional exclusion. This requires attention to:
 
 #### Job Descriptions
 - Use clear, accessible language and **avoid jargon** that may alienate candidates.
-- Refrain from unnecessary experience requirements—ensure stated expectations reflect true needs.
+- Refrain from unnecessary experience requirements -- ensure stated expectations reflect true needs.
 - Avoid language like "rockstar" or "ninja," which can be exclusionary and suggest unrealistic expectations.
 
 #### Company Website & Online Presence
@@ -140,7 +140,7 @@ The recruitment process should **attract a diverse range of candidates** and avo
 #### Interview Process
 - Ensure diverse representation on **interview panels** to mitigate bias and create a welcoming experience.
 - **Structure interviews** to focus on evaluating soft skills, communication, and problem-solving rather than only technical ability.
-- Implement an optional **casual “culture fit” interview** to let candidates express passions and goals in a relaxed environment.
+- Implement an optional **casual "culture fit" interview** to let candidates express passions and goals in a relaxed environment.
 - Make sure interview materials are **accessible**, such as providing images with alternative or descriptive text.
 
 #### The Impact of Overstating Expectations
@@ -164,8 +164,8 @@ Generally, the most successful team members possess:
 - Are they adaptable to evolving tools, workflows, and processes?
 
 4. **Cultural Compatibility**
-- Does the candidate align with the studio’s **values and communication style**?
-- Are they willing to contribute positively to the team’s work environment?
+- Does the candidate align with the studio's **values and communication style**?
+- Are they willing to contribute positively to the team's work environment?
 
 
 ### Summary
@@ -186,9 +186,9 @@ A productive and sustainable workplace begins with recognizing that employees ar
 - **Creativity & Problem-Solving**: Proper rest allows the mind to process information, leading to innovation and better decision-making.
 - **Sustainable Productivity**: Employees who receive adequate downtime produce **higher-quality** work over the long term.
 
-#### Applying Maslow’s Hierarchy of Needs in the Workplace
+#### Applying Maslow's Hierarchy of Needs in the Workplace
 
-Maslow’s Hierarchy of Needs is a psychological model that outlines fundamental human necessities. In the workplace, applying these principles ensures employees feel safe, valued, and motivated:
+Maslow's Hierarchy of Needs is a psychological model that outlines fundamental human necessities. In the workplace, applying these principles ensures employees feel safe, valued, and motivated:
 
 1. **Physiological Needs**: Ensure employees receive fair compensation that allows them to meet basic survival needs like food, housing, and healthcare.
 2. **Safety & Security**: Provide clear job expectations, stability, and transparent communication regarding role expectations and job security.
@@ -225,7 +225,7 @@ Creating a work environment where employees **feel supported** is critical for e
 
 ### Team Development
 
-A well-developed team is a strong team. Providing employees with opportunities to grow ensures they remain engaged, capable, and aligned with the company’s goals.
+A well-developed team is a strong team. Providing employees with opportunities to grow ensures they remain engaged, capable, and aligned with the company's goals.
 
 #### Clear Expectations
 
@@ -253,7 +253,7 @@ Mentorship benefits both the **mentors and mentees**, creating a culture of know
 #### Benefits for Mentors
 
 - **Leadership Experience**: Practice in coaching, guiding, and developing others.
-- **Confidence Building**: Reinforce expertise and deepen understanding of one’s own skills.
+- **Confidence Building**: Reinforce expertise and deepen understanding of one's own skills.
 - **Career Advancement**: Strong mentorship experience prepares employees for management and leadership roles.
 
 ### Equity and Inclusion
@@ -275,7 +275,7 @@ A **diverse and equitable workplace** fosters innovation, engagement, and improv
 #### Resources Based on Need & Desire
 
 - Ensure **training and development programs** are accessible, allowing employees to engage as they choose rather than making them mandatory.
-- Provide **customized support** based on individual needs—whether it’s additional technical training, mental health resources, or flexible work arrangements.
+- Provide **customized support** based on individual needs -- whether it's additional technical training, mental health resources, or flexible work arrangements.
 - Encourage **self-directed growth** by making learning materials and advancement resources widely available.
 
 By integrating these principles, companies can create a **sustainable, inclusive, and supportive work environment** where employees feel valued, motivated, and empowered to succeed.
@@ -338,7 +338,7 @@ Trust is the foundation of a high-performing team. When employees feel supported
   - Allow employees to express ideas and concerns without fear of retaliation.
   - Normalize learning from mistakes rather than punishing failures.
 
-Trust is a two-way street—leaders must consistently demonstrate integrity, fairness, and commitment to their team’s well-being.
+Trust is a two-way street -- leaders must consistently demonstrate integrity, fairness, and commitment to their team's well-being.
 
 ## Effective Communication
 
@@ -361,7 +361,7 @@ To navigate challenging discussions, leaders can use the **STATE Framework**:
    - Encourage diverse opinions and feedback.
 4. **Tentatively Talk**
    - Express ideas in a way that invites dialogue rather than defensiveness.
-   - Use phrases like "I wonder if…" or "What do you think about…"
+   - Use phrases like "I wonder if..." or "What do you think about..."
 5. **Encourage Testing**
    - Foster an environment where new ideas can be safely explored.
    - Be open to changing your stance based on feedback.

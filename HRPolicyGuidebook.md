@@ -68,7 +68,7 @@ This section should welcome new employees and contractors to your organization, 
 Explain what the mission and goals of your company are.  
 
 ### Our Values
-Explain the values that guide the way you operate as an organization and that you embrace as individuals. You can review the IGDA’s core values [here](https://igda.org/about-us/core-values-and-code-of-ethics/).  
+Explain the values that guide the way you operate as an organization and that you embrace as individuals. You can review the IGDA's core values [here](https://igda.org/about-us/core-values-and-code-of-ethics/).  
 
 ### Company History
 Detail the past of your company, emphasizing points of pride and examples of upholding your mission and values.  
@@ -111,7 +111,7 @@ Describe the procedure for how a manager brings up recurring performance issues 
 Explain the desired approach for employees who decide to end their employment at your company, including notice timeline, exit interviews, and other offboarding processes. 
 
 ### Termination
-Explain the handling of an employee’s termination, including  if they will be immediately escorted off of campus or other standard procedures. 
+Explain the handling of an employee's termination, including  if they will be immediately escorted off of campus or other standard procedures. 
 
 
 ---
@@ -131,7 +131,7 @@ Explain your policies for approval to use assets and software created by externa
 Outline your reimbursement policy and procedure for travel, personal cell phone use, and other expenses. You should note limits on certain types of purchases and if travel meals are stipended or reimbursed. 
 
 ### Employee Files and Records 
-Describe your company’s standards for keeping and sharing employee files and records, and how that information can be requested or reviewed by the employee. 
+Describe your company's standards for keeping and sharing employee files and records, and how that information can be requested or reviewed by the employee. 
 
 ---
 

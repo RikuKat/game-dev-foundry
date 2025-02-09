@@ -4,7 +4,7 @@
 
 Games are a powerful, immersive medium, offering players the chance to step into new worlds, experience diverse perspectives, and shape their own stories. The richness of games comes not just from their mechanics and narratives, but from the diversity of voices, cultures, and experiences they represent.
 
-Inclusive game design isn’t just about representation—it’s about creating deeper, more immersive experiences that resonate with a broader audience. By embracing diversity in characters, environments, and gameplay, developers can cultivate a passionate community, differentiate their games in a crowded market, and enhance both player engagement and public perception.
+Inclusive game design isn't just about representation -- it's about creating deeper, more immersive experiences that resonate with a broader audience. By embracing diversity in characters, environments, and gameplay, developers can cultivate a passionate community, differentiate their games in a crowded market, and enhance both player engagement and public perception.
 
 This document outlines the essential steps and best practices for designing and developing games that are inclusive, impactful, and accessible to all.
 
@@ -61,9 +61,9 @@ A game's world defines the context for gameplay and narrative. Considering diver
 
 ### Geography and Architecture
 
-- Geography impacts characters’ lifestyles and available resources.
+- Geography impacts characters' lifestyles and available resources.
 - Architecture reflects cultural, environmental, and economic influences.
-- Tools and artifacts reveal a society’s technological advancement and daily life.
+- Tools and artifacts reveal a society's technological advancement and daily life.
 
 ### Cultural and Historical Influences
 

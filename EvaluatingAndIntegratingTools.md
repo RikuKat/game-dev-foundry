@@ -1,7 +1,7 @@
 # Evaluating and Integrating Tools in Game Development
 
 ## Introduction
-Selecting the right tools in game development is essential for efficiency, collaboration, and overall project success. A well-integrated toolset can streamline workflows, improve communication, and enhance productivity. However, the wrong tools—or too many tools—can introduce unnecessary distractions and overhead. This document provides a framework for evaluating and integrating tools based on team needs, efficiency, and adaptability.
+Selecting the right tools in game development is essential for efficiency, collaboration, and overall project success. A well-integrated toolset can streamline workflows, improve communication, and enhance productivity. However, the wrong tools -- or too many tools -- can introduce unnecessary distractions and overhead. This document provides a framework for evaluating and integrating tools based on team needs, efficiency, and adaptability.
 
 ## Types of Tools
 ### Communication Tools
