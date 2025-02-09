@@ -1,6 +1,8 @@
 # game-dev-foundry
 Game Dev Foundry is a comprehensive, community-driven resource designed to empower aspiring and current game developers to build and run successful game studios. From securing funding and assembling teams to managing projects and navigating publishing agreements, this resource offers actionable advice, best practices, and real-world insights.
 
+Pull requests can be added to the Game Dev Foundry repo here: [https://github.com/RikuKat/game-dev-foundry](https://github.com/RikuKat/game-dev-foundry)
+
 ## Available Guides:
 - [Game Marketing Strategies](GameMarketingStrategies.md)
 - [How to Pitch a Game](HowToPitchAGame.md)
@@ -18,3 +20,4 @@ With over a decade of experience in game development, studio leadership, and ind
 
 **Game Dev Foundry is a community-driven initiative**, and while Renee laid the foundation, she hopes many more voices will contribute their insights and experiences. The industry is always evolving, and by working together, developers can build a stronger, more informed, and more resilient game development ecosystem.
 
+Learn more about Renee and view her other public resources at: [reneegittins.com](https://www.reneegittins.com)
