@@ -1,0 +1,26 @@
+title: GameDevFoundry
+description: Resources for game developers.
+theme: just-the-docs
+
+# Sidebar Navigation
+nav_order: 1
+aux_links:
+  "GameDevFoundry on GitHub":
+    - "https://github.com/yourusername/GameDevFoundry"
+
+# Sidebar settings
+nav:
+  - title: "Home"
+    url: /
+  - title: "Game Marketing Strategies"
+    url: /GameMarketingStrategies
+  - title: "How to Pitch a Game"
+    url: /HowToPitchAGame
+  - title: "Cultivating a Healthy Game Studio"
+    url: /CultivatingAHealthyGameStudio
+  - title: "HR Policy Guidebook"
+    url: /HRPolicyGuidebook
+  - title: "Evaluting and Integrating Tools"
+    url: /EvaluatingAndIntegratingTools
+  - title: "Inclusive Game Development"
+    url: /InclusiveGameDevelopment
