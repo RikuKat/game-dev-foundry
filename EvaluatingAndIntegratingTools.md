@@ -30,7 +30,7 @@ Managing tasks, planning workflows, and budgeting are essential for game develop
 ### Development Tools
 Game development requires specialized tools for performance analysis, error reporting, and debugging.
 
-- **Performance Analysis:** Gpreftools, Unity Profiler, Intel Graphics Performance Analyzers, RenderDoc, PIX, Very Sleepy
+- **Performance Analysis:** Superluminal, Gpreftools, Unity Profiler, Intel Graphics Performance Analyzers, RenderDoc, PIX, Very Sleepy
 - **Error Reporting:** Backtrace, Graylog, LogStash, BugSplat, Splunk, Embrace
 - **Dynamic Analysis:** Valgrind, VB Watch, Dmalloc, Intel Inspector
 
