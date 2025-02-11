@@ -16,7 +16,7 @@ A pitch deck is not just a structured presentation of your game; it is the start
 ## Pitch Deck
 
 ### Pitch Deck Resources
-- Rami Ismail's Pitch Template: https://ltpf.ramiismail.com/pitch-template/
+- Rami Ismail's Pitch Template: [https://ltpf.ramiismail.com/pitch-template/](https://ltpf.ramiismail.com/pitch-template/)
 
 ### Pitch Deck Outline
 

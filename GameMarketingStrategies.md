@@ -11,18 +11,22 @@ This document outlines key strategies for marketing a game, focusing on traditio
 Traditional advertising remains a fundamental component of game marketing, providing broad visibility and direct promotion to target audiences.
 
 ### 1. Paid Digital Advertising
-- **Social Media Ads:** Platforms like Facebook, Instagram, Twitter (X), and TikTok allow targeted advertising based on user demographics, interests, and behaviors.
+- **Social Media Ads:** Platforms like [Facebook](https://www.facebook.com/business/goals/run-facebook-ad-campaigns), [Instagram](https://business.instagram.com/advertising), [Twitter (X)](https://business.x.com/en/help/campaign-setup/x-ads-manager), and [TikTok](https://ads.tiktok.com/business) allow targeted advertising based on user demographics, interests, and behaviors.
 - **Google Ads:** Search engine marketing (SEM) helps reach potential players searching for related content.
+  - Google Ads Portal - [business.google.com/us/google-ads/](https://business.google.com/)
 - **YouTube Ads:** Pre-roll ads and in-video advertisements can showcase gameplay footage, trailers, and developer insights.
+  - Yotube Ads - [business.google.com/us/ad-solutions/youtube-ads](https://business.google.com/us/ad-solutions/youtube-ads/)
 
 ### 2. Press and Media Coverage
-- **Game Review Sites:** Submitting your game to outlets like IGN, Kotaku, or PC Gamer can increase credibility and reach.
+- **Game Review Sites:** Submitting your game to outlets like [IGN](https://corp.ign.com/contact), [Kotaku](https://kotaku.com/about), or [PC Gamer](https://www.pcgamer.com/about-pc-gamer/) can increase credibility and reach.
 - **Gaming Newsletters & Blogs:** Getting featured in industry newsletters and blogs can expose your game to an engaged audience.
-- **Press Releases:** Distributing press releases via PR agencies or platforms like GamesPress ensures official information reaches journalists and content creators.
+- **Press Releases:** Distributing press releases via PR agencies or platforms like [GamesPress](https://www.gamespress.com/) ensures official information reaches journalists and content creators.
 
 ### 3. Events & Conventions
-- **Game Expos (e.g., PAX, Gamescom, GDC):** Attending and showcasing a game at conventions allows for direct player feedback and industry networking.
-- **Online Streaming Events:** Hosting digital events or participating in showcases like Nintendo Direct or Steam Next Fest increases exposure.
+- **Game Expos (e.g., [PAX](https://www.pax.com/), [Gamescom](https://www.gamescom.global), [GDC](https://gdconf.com/)):** Attending and showcasing a game at conventions allows for direct player feedback and industry networking.
+- **Online Streaming Events:** Hosting digital events or participating in showcases like [Nintendo Direct](https://www.nintendo.com/us/nintendo-direct/) or [Steam Next Fest](https://store.steampowered.com/sale/nextfest) increases exposure.
+  - Nintendo Developer Portal - [developer.nintendo.com](https://developer.nintendo.com/)
+  - Steamworks Portal - [partner.steamgames.com](https://partner.steamgames.com/)
 
 ---
 
@@ -32,7 +36,7 @@ Influencers and content creators are powerful tools in modern game marketing, pr
 ### 1. Finding the Right Influencers
 - **Targeted Audience Matching:** Choose influencers whose audience aligns with the game's genre and style.
 - **Engagement Over Follower Count:** A smaller creator with high engagement can drive more conversions than a large influencer with passive followers.
-- **Cross-Platform Reach:** Leverage different platforms (Twitch, YouTube, TikTok, Twitter) for maximum exposure.
+- **Cross-Platform Reach:** Leverage different platforms ([Twitch](https://www.twitch.tv/), [YouTube](https://www.youtube.com/), [TikTok](https://www.tiktok.com/), [Twitter (X)](https://x.com/)) for maximum exposure.
 
 ### 2. Establishing Relationships
 - **Early Access & Exclusive Content:** Providing influencers with early game access increases anticipation and creates organic content.
@@ -52,7 +56,7 @@ Building a community around a game ensures long-term success, player retention, 
 ### 1. Platforms for Community Engagement
 - **Discord:** A dedicated Discord server provides real-time communication, direct player feedback, and event hosting.
 - **Reddit & Forums:** Engaging in game-related subreddits and forums helps tap into niche gaming communities.
-- **Social Media:** Active participation on Twitter (X), Instagram, and TikTok keeps fans engaged and informed.
+- **Social Media:** Active participation on [Twitter (X)](https://x.com/), [Instagram](https://www.instagram.com/), and [TikTok](https://www.tiktok.com/) keeps fans engaged and informed.
 
 ### 2. Strategies for Sustaining a Community
 - **Regular Developer Updates:** Sharing progress, behind-the-scenes content, and patch notes keeps the audience engaged.
@@ -66,7 +70,7 @@ Building a community around a game ensures long-term success, player retention, 
 
 ## Maximizing Visibility Through Platform Algorithms
 
-Game distribution platforms like **Steam, Epic Games Store, PlayStation Store, Xbox Marketplace, and Nintendo eShop** operate on algorithms designed to surface content that is relevant, engaging, and likely to convert into sales. Understanding and leveraging these algorithms can significantly impact a game's visibility and success.
+Game distribution platforms like **[Steam](https://store.steampowered.com/), [Epic Games Store](https://store.epicgames.com/), [PlayStation Store](https://store.playstation.com/), [Xbox Marketplace](https://www.xbox.com/en-US/microsoft-store), and [Nintendo eShop](https://www.nintendo.com/us/store/games/)** operate on algorithms designed to surface content that is relevant, engaging, and likely to convert into sales. Understanding and leveraging these algorithms can significantly impact a game's visibility and success.
 
 ### Key Factors Influencing Platform Algorithms
 - **Interest/Wishlist Activity** - Platforms often prioritize games with high wishlist counts and recent additions.
@@ -87,13 +91,13 @@ Game distribution platforms like **Steam, Epic Games Store, PlayStation Store, X
 Most major platforms host recurring **sales, seasonal events, and curated promotions** that provide additional exposure and discounts for participating games.
 
 ### Major Platform Events
-#### Steam:
+#### PC ([Steam](https://store.steampowered.com/)):
 - **Steam Next Fest** - Showcases upcoming games with playable demos, boosting exposure.
 - **Seasonal Sales** (Summer, Winter, Autumn, and Spring Sales) - The largest traffic spikes, ideal for maximizing revenue.
 - **Daily & Weekly Deals** - Limited-time discounts that boost visibility.
 - **Publisher Events & Themed Sales** - Feature games based on genres, franchises, or gameplay elements.
 
-#### Console Stores (PlayStation, Xbox, Nintendo):
+#### Console Stores ([PlayStation](https://store.playstation.com/), [Xbox](https://www.xbox.com/en-US/microsoft-store), [Nintendo](https://www.nintendo.com/us/store/games/)):
 - **Spotlight Features & Curated Sales** - Editorial selections highlight certain games or genres.
 - **Game Pass & PS Plus Promotions** - Subscription-based exposure can drive engagement and future sales.
 - **Pre-Order & Launch Discounts** - Encourages early adoption and ranking boosts.
