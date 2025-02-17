@@ -7,32 +7,32 @@ Selecting the right tools in game development is essential for efficiency, colla
 ### Communication Tools
 Effective communication is critical for game development teams, especially in remote or hybrid work environments.
 
-- **Messaging Tools:** Email, Slack, Discord, Microsoft Teams
-- **Voice Communication:** Zoom, Google Meet, Discord
-- **Art/Design Review Tools:** SyncSketch, Frame.io, Figma
+- **Office Suite:** [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web), [Google Workspace](https://workspace.google.com/essentials/)
+- **Instant Messaging & Voice Chat:** [Slack](https://slack.com/), [Discord](https://discord.com/), [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software), [Zoom](https://www.zoom.com/)
+- **Art/Design Review Tools:** [SyncSketch](https://syncsketch.com/), [Frame.io](https://frame.io/)
 
 ### Collaboration Tools
 Collaboration tools facilitate teamwork across disciplines and functions.
 
-- **Document and Design Collaboration:** Google Suite, Confluence, MURAL, Miro
-- **Art/Design Collaboration:** Thinkbox, InVision, Framer, Figma
+- **Document and Design Collaboration:** [Google Docs](https://workspace.google.com/products/docs/), [Notion](https://www.notion.com/), [Confluence](https://www.atlassian.com/software/confluence), [Mural](https://www.mural.co/), [Miro](https://miro.com/)
+- **Art/Design Collaboration:** [AWS Thinkbox](https://aws.amazon.com/media-services/thinkbox/), [Framer](https://www.framer.com/), [Figma](https://www.figma.com/)
 - **Development Collaboration:**
-  - **Source Control:** Git, Perforce, Plastic SCM
-  - **Pair Programming & Code Review:** GitHub, Bitbucket, JetBrains Space
+  - **Source Control:** [Git](https://git-scm.com/), [Perforce](https://www.perforce.com/products/helix-core), [Plastic SCM](https://www.plasticscm.com/)
+  - **Pair Programming & Code Review:** [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/product/), [JetBrains Space](https://www.jetbrains.com/space/)
 
 ### Production / Management Tools
 Managing tasks, planning workflows, and budgeting are essential for game development.
 
-- **Task Tracking:** JIRA, Trello, Asana
-- **Planning:** Microsoft Project, Instagantt, JIRA, Asana, Excel
-- **Budgeting:** QuickBooks, Centage, Float, Excel
+- **Task Tracking:** [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Asana](https://asana.com/)
+- **Planning:** [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software), [Instagantt](https://www.instagantt.com/), [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+- **Budgeting:** [QuickBooks](https://quickbooks.intuit.com/), [Centage](https://www.centage.com/), [Float](https://www.float.com/), [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### Development Tools
 Game development requires specialized tools for performance analysis, error reporting, and debugging.
 
-- **Performance Analysis:** Superluminal, Gpreftools, Unity Profiler, Intel Graphics Performance Analyzers, RenderDoc, PIX, Very Sleepy
-- **Error Reporting:** Backtrace, Graylog, LogStash, BugSplat, Splunk, Embrace
-- **Dynamic Analysis:** Valgrind, VB Watch, Dmalloc, Intel Inspector
+- **Performance Analysis:** [Superluminal](https://superluminal.eu), [Gpreftools](https://github.com/gperftools/gperftools), [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html), [Intel PresentMon](https://game.intel.com/us/stories/intel-presentmon/), [Intel Graphics Performance Analyzers](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html), [RenderDoc](https://renderdoc.org/), [PIX](https://devblogs.microsoft.com/pix/), [Very Sleepy](http://www.codersnotes.com/sleepy/)
+- **Error Reporting:** [Backtrace](https://backtrace.io/), [Graylog](https://graylog.org/), [LogStash](https://www.elastic.co/logstash), [BugSplat](https://www.bugsplat.com/), [Splunk](https://www.splunk.com/), [Embrace](https://embrace.io/)
+- **Dynamic Analysis:** [Valgrind](https://valgrind.org/), [VB Watch](https://www.aivosto.com/vbwatch.html), [Dmalloc](https://dmalloc.com/), [Intel Inspector](https://www.intel.com/content/www/us/en/developer/tools/oneapi/inspector.html)
 
 ## Considerations for Tool Evaluation
 ### Understanding Team Needs
