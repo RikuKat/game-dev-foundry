@@ -50,19 +50,19 @@ VC funding is less common in game development unless the project involves **live
 - **Cons:** Requires strong marketing, risk of underfunding.
 - **Best For:** Developers with an established audience and a compelling campaign.
 
-Platforms like **Kickstarter and Indiegogo** allow developers to secure funding from dedicated fans in exchange for rewards, early access, or special in-game content.
+Platforms like **[Kickstarter](https://www.kickstarter.com/) and [Indiegogo](https://www.indiegogo.com/)** allow developers to secure funding from dedicated fans in exchange for rewards, early access, or special in-game content.
 
 ### 7. **Grants and Government Programs**
 - **Pros:** No repayment or revenue-sharing.
 - **Cons:** Competitive application process, limited funding amounts.
 - **Best For:** Indie developers, experimental or socially impactful games.
 
-Organizations such as the **Epic MegaGrants, Canada Media Fund, UK Games Fund**, and others offer financial support to game developers based on innovation and market potential.
+Organizations such as the **[Epic MegaGrants](https://www.unrealengine.com/en-US/megagrants), [Canada Media Fund](https://cmf-fmc.ca/), [UK Games Fund](https://ukgamesfund.com/)**, and others offer financial support to game developers based on innovation and market potential.
 
 ### 8. **Platform Partnerships and Revenue-Sharing Deals**
 - **Pros:** Exposure, potential marketing support.
 - **Cons:** Usually tied to exclusivity agreements.
-- **Best For:** Studios launching on platforms like **Epic Games Store, Apple Arcade, or Game Pass**.
+- **Best For:** Studios launching on platforms like **[Epic Games Store](https://store.epicgames.com/), [Apple Arcade](https://www.apple.com/apple-arcade/), or [Xbox Game Pass](https://www.xbox.com/en-US/xbox-game-pass)**.
 
 Some platforms provide **upfront payments or revenue-sharing agreements** in exchange for **timed exclusivity or game subscription service participation**.
 

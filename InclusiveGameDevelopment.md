@@ -35,7 +35,7 @@ Diverse backgrounds enrich games with varied histories, characters, and contexts
 
 A diverse team also naturally builds more diverse and inclusive games, incorporating various backgrounds, experiences, abilities, heritages, and cultures into the development process.
 
-## Research
+## Performing Cultural Research
 
 Thorough research before full production helps developers expand their inspirations across **culture, history, current game trends, and accessibility**. A wide range of sources prevents bias and enhances creative diversity.
 
@@ -46,10 +46,6 @@ Culture influences worldbuilding, character development, and game mechanics. Dev
 ### Historical Context
 
 Historical records provide inspiration but can be biased or incomplete. Developers should use multiple sources, including **anthropological records**, to create well-rounded narratives.
-
-### Accessibility Research
-
-Early research into **accessibility best practices and tools** is crucial. Engaging directly with players with disabilities through **user research** ensures broader accessibility.
 
 ### Contracted Experts
 
@@ -89,7 +85,12 @@ Characters should reflect a diverse range of backgrounds, identities, and experi
 - Gender expression should not be restricted by **outdated stereotypes**.
 - Clothing, body type, and style should allow for **varied and authentic representation**.
 
-## Design and Mechanics
+### Player Character Customization
+
+- Players should be able to **customize their character fully**, including gender identity and pronouns.
+- **Romantic options** should not be arbitrarily restricted.
+
+## Accessibility
 
 Game mechanics impact inclusivity through **accessibility, audience engagement, and player agency**.
 
@@ -98,11 +99,9 @@ Game mechanics impact inclusivity through **accessibility, audience engagement, 
 - **Text legibility, UI clarity, and control flexibility** should be optimized.
 - **Avoid reliance on color cues alone**.
 - **Difficulty settings and customizable controls** improve accessibility.
+### Accessibility Research
 
-### Player Character Customization
-
-- Players should be able to **customize their character fully**, including gender identity and pronouns.
-- **Romantic options** should not be arbitrarily restricted.
+- Early research into **accessibility best practices and tools** is crucial. Engaging directly with players with disabilities through **user research** ensures broader accessibility.
 
 ## Community and Moderation
 
