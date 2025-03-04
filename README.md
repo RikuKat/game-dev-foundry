@@ -3,14 +3,20 @@ Game Dev Foundry is a comprehensive, community-driven resource designed to empow
 
 Pull requests can be added to the Game Dev Foundry repo here: [https://github.com/RikuKat/game-dev-foundry](https://github.com/RikuKat/game-dev-foundry)
 
-## Available Guides:
-- [Game Marketing Strategies](GameMarketingStrategies.md)
+## Available Guides
+
+### **Business & Strategy**
 - [How to Pitch a Game](HowToPitchAGame.md)
 - [Funding and Financial Management](FundingAndFinancialManagement.md)
+- [Game Marketing Strategies](GameMarketingStrategies.md)
+
+### **Studio Management & Culture**
 - [Cultivating a Healthy Game Studio](CultivatingAHealthyGameStudio.md)
 - [HR Policy Guidebook](HRPolicyGuidebook.md)
-- [Evaluting and Integrating Tools](EvaluatingAndIntegratingTools.md)
 - [Inclusive Game Development](InclusiveGameDevelopment.md)
+
+### **Production & Tools**
+- [Evaluating and Integrating Tools](EvaluatingAndIntegratingTools.md)
 
 ## About the Founder 
 
