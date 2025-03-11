@@ -1,6 +1,8 @@
 title: GameDevFoundry
 description: Resources for game developers.
-remote-theme: just-the-docs/just-the-docs
+remote_theme: pages-themes/primer@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 # Sidebar Navigation
 nav_order: 1
