@@ -36,7 +36,7 @@ Influencers and content creators are powerful tools in modern game marketing, pr
 ### 1. Finding the Right Influencers
 - **Targeted Audience Matching:** Choose influencers whose audience aligns with the game's genre and style.
 - **Engagement Over Follower Count:** A smaller creator with high engagement can drive more conversions than a large influencer with passive followers.
-- **Cross-Platform Reach:** Leverage different platforms ([Twitch](https://www.twitch.tv/), [YouTube](https://www.youtube.com/), [TikTok](https://www.tiktok.com/), [Twitter (X)](https://x.com/)) for maximum exposure.
+- **Cross-Platform Reach:** Leverage different platforms ([Twitch](https://www.twitch.tv/), [YouTube](https://www.youtube.com/), [TikTok](https://www.tiktok.com/), [Twitter (X)](https://x.com/), [BlueSky](https://bsky.app/)) for maximum exposure.
 
 ### 2. Establishing Relationships
 - **Early Access & Exclusive Content:** Providing influencers with early game access increases anticipation and creates organic content.
@@ -56,7 +56,7 @@ Building a community around a game ensures long-term success, player retention, 
 ### 1. Platforms for Community Engagement
 - **Discord:** A dedicated Discord server provides real-time communication, direct player feedback, and event hosting.
 - **Reddit & Forums:** Engaging in game-related subreddits and forums helps tap into niche gaming communities.
-- **Social Media:** Active participation on [Twitter (X)](https://x.com/), [Instagram](https://www.instagram.com/), and [TikTok](https://www.tiktok.com/) keeps fans engaged and informed.
+- **Social Media:** Active participation on [Twitter (X)](https://x.com/), [Bluesky](https://bsky.app/), [Instagram](https://www.instagram.com/), and [TikTok](https://www.tiktok.com/) keeps fans engaged and informed.
 
 ### 2. Strategies for Sustaining a Community
 - **Regular Developer Updates:** Sharing progress, behind-the-scenes content, and patch notes keeps the audience engaged.
