@@ -1,22 +1,3 @@
-<!-- <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="icon" href="/assets/favicon.ico">
-  </head>
-  <body>
-    <h1>
-        <a href="/">
-            <img src="/assets/gamedevfoundrylogo-48.png" alt="Logo">
-        </a>
-        <a href="/">
-            GameDevFoundry
-        </a>
-    </h1>
-    {{ content }}
-  </body>
-</html> -->
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
   <head>
@@ -31,8 +12,10 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <img class="image" src="{{ "/assets/images/gamedevfoundrylogo-48.png" | relative_url }}">
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      <h1>
+        <img src="{{ "/assets/images/gamedevfoundrylogo-48.png" | relative_url }}" style="padding-right: 8px; vertical-align: text-bottom;" alt="Logo">
+        <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
+      </h1>
       {% endif %}
 
       {{ content }}
