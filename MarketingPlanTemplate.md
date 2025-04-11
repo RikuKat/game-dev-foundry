@@ -107,10 +107,12 @@ Include in a publicly accessible folder:
 - Reach out to curators and specialized reviewers
 - Schedule embargoes and follow-ups
 
+### Advertisements
+- Run targeted ads if budget allows (Google, Reddit, TikTok)
+
 ### Steam Event Participation
 - Join Steam Next Fest or bundle with complementary games
-- Extend livestream presence on Steam page
-- Run targeted ads if budget allows (Google, Reddit, TikTok)
+- Livestream presence on Steam page (([RoboStreamer](https://robostreamer.com/)) is invaluable for this)
 
 ---
 
@@ -123,7 +125,7 @@ Include in a publicly accessible folder:
   - Website update
   - Discord + social media posts
 - Monitor community activity (feedback, reviews)
-- Post an emotional or personal launch message
+- Post a personal launch message
 - Share early reviews or reactions with graphics
 
 ### Week 1 Strategy
@@ -140,7 +142,7 @@ Include in a publicly accessible folder:
 - Publish a patch or content update (bug fixes or new room, potion, skin)
 - Share “what’s next” roadmap or hint at future DLC
 - Pitch to late-cycle influencers or journalists
-- Participate in a seasonal Steam sale (as eligible)
+- Participate in sales, such as Steam seasonal sales and themed sales (as eligible)
 - Maintain social and newsletter activity
 
 ### Long-Tail Content
