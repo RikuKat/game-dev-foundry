@@ -9,6 +9,7 @@ Pull requests can be added to the Game Dev Foundry repo here: [https://github.co
 - [How to Pitch a Game](HowToPitchAGame.md)
 - [Funding and Financial Management](FundingAndFinancialManagement.md)
 - [Game Marketing Strategies](GameMarketingStrategies.md)
+- [Marketing Plan Template](MarketingPlanTemplate.md)
 
 ### **Studio Management & Culture**
 - [Cultivating a Healthy Game Studio](CultivatingAHealthyGameStudio.md)

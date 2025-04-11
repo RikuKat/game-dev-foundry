@@ -124,3 +124,67 @@ Offering discounts is a critical strategy for maintaining long-term sales moment
 - **Leverage Regional Pricing** - Adjust prices to match market demand and purchasing power in different regions.
 - **Announce Discounts Strategically** - Promote sales through newsletters, social media, and community posts.
 
+---
+
+## Contingency Planning
+
+Even the best-laid plans can run into unexpected challenges. Preparing in advance ensures your team responds quickly and confidently to setbacks.
+
+- **Delays:** Have clear messaging ready and an alternate launch date planned.
+- **Bad press or bugs:** Prioritize fast patch turnarounds and maintain transparent communication.
+- **Competing launches:** Focus marketing on niche appeal and loyal community engagement.
+- **Demo underperformance:** Shift messaging to highlight story, characters, or atmosphere.
+
+---
+
+## Budgeting
+
+Tracking marketing expenses helps ensure your campaign remains cost-effective and informs future launches.
+
+- **Press asset production:** Trailers, key art, promotional materials.
+- **Influencer campaigns:** Paid coverage or partnerships (Note: It generally requires a large budget to obtain effective influencer coverage).
+- **Event submission fees:** Conferences, showcases, award shows.
+- **Ad platform costs:** Google Ads, TikTok Boosts, Reddit promotions, etc..
+- **Freelancers or contractors:** Community managers, social media coordinators, PR assistance, copywriters, etc..
+
+Compare estimated vs. actual spend vs. performance to identify what works and how to spend effectively.
+
+---
+
+## Competitor & Genre Research
+
+Learning from games similar to yours helps you understand what resonates with your audience and where to stand out.
+
+- **Visual and messaging trends:** Analyze trailers, store pages, and social media.
+- **Press and creator coverage:** See where competitors got traction.
+- **Pricing and discounting strategies:** What value signals worked best?
+- **Influencer engagement:** Identify streamers and reviewers who featured similar games.
+
+Use these insights to better position your game in a crowded market.
+
+---
+
+## Suggested Release Timing
+
+Picking the right launch date can significantly impact your visibility and sales.
+
+**Avoid launching on Steam during:**
+- Steam Next Fest (February, June, October)
+- Steam Seasonal Sales (December, March, June, November)
+
+**Ideal windows:**
+- January to April tends to have less competition
+- Mondays and Wednesdays are often effective for visibility
+- Launching just before a major sale can help long-tail performance
+
+---
+
+## Creative Ideas & Fan Engagement
+
+Creative campaigns can boost visibility and deepen community investment.
+
+- **Themed content:** Potion-making science videos, game-inspired recipes.
+- **Cosplay & DIY:** Offer printable art, costume guides, or props.
+- **Community contests:** Fan art, lore writing, mod design, or screenshot competitions.
+- **Influencer collabs:** Challenge creators to craft potions or speedrun special modes.
+- **Spotlighting fans:** Share community art, memes, or testimonials.
