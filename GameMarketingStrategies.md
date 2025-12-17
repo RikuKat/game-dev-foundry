@@ -34,7 +34,7 @@ Traditional advertising remains a fundamental component of game marketing, provi
 Influencers and content creators are powerful tools in modern game marketing, providing authentic promotion and direct engagement with potential players.
 
 ### 1. Finding the Right Influencers
-- **Targeted Audience Matching:** Choose influencers whose audience aligns with the game's genre and style.
+- **Targeted Audience Matching:** Choose influencers whose audience aligns with the game's genre and style. Use tools like [SullyGnome](https://sullygnome.com/) to look up influencers who have covered compariable titles.
 - **Engagement Over Follower Count:** A smaller creator with high engagement can drive more conversions than a large influencer with passive followers.
 - **Cross-Platform Reach:** Leverage different platforms ([Twitch](https://www.twitch.tv/), [YouTube](https://www.youtube.com/), [TikTok](https://www.tiktok.com/), [Twitter (X)](https://x.com/), [BlueSky](https://bsky.app/)) for maximum exposure.
 
@@ -42,6 +42,7 @@ Influencers and content creators are powerful tools in modern game marketing, pr
 - **Early Access & Exclusive Content:** Providing influencers with early game access increases anticipation and creates organic content.
 - **Sponsored Content & Partnerships:** Paying for content creation ensures dedicated promotional efforts while maintaining authenticity.
 - **Affiliate & Revenue Sharing Programs:** Offering referral incentives helps sustain long-term influencer engagement.
+- **Genuine Connection:** Establishing genuine connections with influencers and their audience (through their comments, stream chats, etc.) also assists with engagement, particularly for smaller developers without sponsorship budgets. 
 
 ### 3. Community-Driven Content
 - **User-Generated Content (UGC):** Encourage players and content creators to share gameplay clips, fan art, and custom challenges.
@@ -55,7 +56,7 @@ Building a community around a game ensures long-term success, player retention, 
 
 ### 1. Platforms for Community Engagement
 - **Discord:** A dedicated Discord server provides real-time communication, direct player feedback, and event hosting.
-- **Reddit & Forums:** Engaging in game-related subreddits and forums helps tap into niche gaming communities.
+- **Reddit & Forums:** Engaging in game-related subreddits and forums helps tap into niche gaming communities. It can be easiest to use a personal Reddit account for such engagements to stay below the 10% self-promotion limits of Reddit.
 - **Social Media:** Active participation on [Twitter (X)](https://x.com/), [Bluesky](https://bsky.app/), [Instagram](https://www.instagram.com/), and [TikTok](https://www.tiktok.com/) keeps fans engaged and informed.
 
 ### 2. Strategies for Sustaining a Community
