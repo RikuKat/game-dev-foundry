@@ -20,6 +20,9 @@ Pull requests can be added to the Game Dev Foundry repo here: [https://github.co
 - [Evaluating and Integrating Tools](EvaluatingAndIntegratingTools.md)
 - [Premortem Guide](PremortemGuide.md)
 
+### **Additional Resources**
+- [Additional External Resources](AdditionalExternalResources.md)
+
 ## About the Founder 
 
 **Renee Gittins** is a game developer, engineer, and studio leader with a deep passion for fostering sustainable, inclusive, and successful game development practices. As the founder of **Game Dev Foundry**, she's created the initial set of resources to help aspiring and established developers navigate the complex challenges of building and running a game studio.  
