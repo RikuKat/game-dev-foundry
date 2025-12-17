@@ -4,7 +4,7 @@ This is a high-level map of common development stages with best practice recomme
 
 ---
 
-## Quick Glossary
+## Glossary
 
 - **Pre-production:** Discovering what the game *is*, proving it can be built, and de-risking the unknowns.
 - **Production:** Building the game *as it is now understood*, at scale, with pipelines and predictable iteration.
@@ -106,10 +106,10 @@ This is a high-level map of common development stages with best practice recomme
 # Production
 
 - **Production** works to build the full game efficiently based on the discoveries and knowledge from pre-production
-- Planning becomes meaningful: executing on a defined vision
+- Planning becomes meaningful: **executing on a defined vision**
 - Teams scale and pipelines matter
-- Most work is repeatable content creation + integration + iteration
-- Regular internal milestones (levels, quests, missions, features)
+- Most work is **repeatable content creation + integration + iteration**
+- **Regular internal milestones** (levels, quests, missions, features)
 - Increasingly complete game build with real progression
 
 ---
