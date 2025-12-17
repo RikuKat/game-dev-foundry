@@ -6,6 +6,7 @@ Pull requests can be added to the Game Dev Foundry repo here: [https://github.co
 ## Available Guides
 
 ### **Business & Strategy**
+- [Stages of Game Development](StagesOfGameDevelopment.md)
 - [How to Pitch a Game](HowToPitchAGame.md)
 - [Funding and Financial Management](FundingAndFinancialManagement.md)
 - [Game Marketing Strategies](GameMarketingStrategies.md)
