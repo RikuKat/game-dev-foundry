@@ -53,11 +53,11 @@ VC funding is less common in game development unless the project involves **live
 Platforms like **[Kickstarter](https://www.kickstarter.com/) and [Indiegogo](https://www.indiegogo.com/)** allow developers to secure funding from dedicated fans in exchange for rewards, early access, or special in-game content.
 
 ### 7. **Grants and Government Programs**
-- **Pros:** No repayment or revenue-sharing.
+- **Pros:** Often no repayment or revenue-sharing.
 - **Cons:** Competitive application process, limited funding amounts.
 - **Best For:** Indie developers, experimental or socially impactful games.
 
-Organizations such as the **[Epic MegaGrants](https://www.unrealengine.com/en-US/megagrants), [Canada Media Fund](https://cmf-fmc.ca/), [UK Games Fund](https://ukgamesfund.com/)**, and others offer financial support to game developers based on innovation and market potential.
+Organizations such as the **[Epic MegaGrants](https://www.unrealengine.com/en-US/megagrants), [Canada Media Fund](https://cmf-fmc.ca/)** (requires some revenue share), **[UK Games Fund](https://ukgamesfund.com/)**, and others offer financial support to game developers based on innovation and market potential.
 
 ### 8. **Platform Partnerships and Revenue-Sharing Deals**
 - **Pros:** Exposure, potential marketing support.
