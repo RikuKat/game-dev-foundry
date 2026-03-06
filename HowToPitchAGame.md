@@ -1,7 +1,7 @@
 # How to Pitch a Game
 
 ## Overview
-A pitch deck is not just a structured presentation of your game; it is the start of a partnership. Your goal is to convince potential investors, publishers, or partners that your proposal is worth their time and money. This proposal is not just your game, but includes your team, budget, timeline, and market viability.
+A game pitch is the start of a partnership. Your goal is to convince potential investors, publishers, or partners that your proposal is worth their time and money. This proposal is not just about your game, but includes your team, budget, timeline, and market viability.
 
 ## Key Principles of a Strong Pitch
 - Highlight what makes your game unique and compelling.
